@@ -21,6 +21,8 @@ This repository trains and compares U-Net segmentation models with different Ima
 - Keras (bundled with TensorFlow 2)
 - NumPy, Matplotlib, Pandas
 - openpyxl (for writing `.xlsx`)
+  
+### 🔗 **Dataset:** [Click here to access](https://drive.google.com/file/d/1OWD290SollrijOfTLUOh18IIDywtrgAE/view?usp=sharing)
 
 Install:
 ```bash
